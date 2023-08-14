@@ -1,0 +1,30 @@
+{
+  "name": "highlightjs-jcl",
+  "version": "0.1.0",
+  "description": "z/OS JCL syntax highlighting for highlight.js",
+  "main": "src/jcl.js",
+  "types": "src/jcl.d.ts",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmasBox/highlightjs-jcl.git"
+  },
+  "keywords": [
+    "JCL",
+    "Job Control Language",
+    "zOS",
+    "zOSJCL",
+    "hljs",
+    "highlightjs",
+    "highlight.js"
+  ],
+  "author": "Emma Skovgaard",
+  "license": "GPL-3.0 license",
+  "bugs": {
+    "url": "https://github.com/EmmasBox/highlightjs-jcl/issues"
+  },
+  "devDependencies": {
+    "highlight.js": "^11.6.0"
+  }
+}
