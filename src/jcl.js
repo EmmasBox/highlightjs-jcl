@@ -6,8 +6,13 @@ export default function (hljs) {
         case_insensitive: false,
         keywords: {
             keyword: [
-
+                'JOB',
+                'EXEC',
+                'DD'
             ],
+            meta: [
+
+            ]
         },
         contains: [
 
