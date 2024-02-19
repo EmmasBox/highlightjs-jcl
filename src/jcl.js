@@ -29,6 +29,7 @@ export default function (hljs) {
             built_in: [
                 'DSN',
                 'ZFSDSN',
+                'DISP',
                 'PGM',
                 'MSGLEVEL',
                 'MSGCLASS',
@@ -44,7 +45,8 @@ export default function (hljs) {
                 'RD',
                 'PROC',
                 'SYSOUT',
-                'SYSIN'
+                'SYSIN',
+                'DLM'
             ],
             meta: [
                 '//',
@@ -58,6 +60,10 @@ export default function (hljs) {
             {
                 scope: 'string',
                 begin: "'", end: "'"
+            },
+            {
+                scope: 'operator',
+                begin: /(=|\*)/
             },
             {
                 scope: 'number',
