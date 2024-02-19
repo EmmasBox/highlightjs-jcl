@@ -1,6 +1,6 @@
 {
   "name": "highlightjs-jcl",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "z/OS JCL syntax highlighting for highlight.js",
   "main": "src/jcl.js",
   "types": "src/jcl.d.ts",

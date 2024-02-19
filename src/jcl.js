@@ -1,4 +1,7 @@
 /** @type LanguageFn */
+
+/* Made by Emma Skovgaard */
+
 export default function (hljs) {
     return {
         name: 'JCL',
