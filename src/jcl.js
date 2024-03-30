@@ -31,6 +31,7 @@ export default function (hljs) {
             ],
             built_in: [
                 'DSN',
+                "CLASS",
                 'ZFSDSN',
                 'DISP',
                 'SPACE',
@@ -99,6 +100,7 @@ export default function (hljs) {
                 "NEW",
                 "MOD",
                 "OLD",
+                "KEEP",
                 "DELETE",
                 "CATLG",
                 "UNCATLG",
@@ -108,7 +110,7 @@ export default function (hljs) {
                 "TRK",
                 "CYL",
                 "blklgth",
-                "reclgth"
+                "reclgth",
             ],
             meta: [
                 '//',
