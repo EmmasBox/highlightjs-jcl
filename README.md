@@ -4,7 +4,7 @@
 Allows you to highlight z/OS JCL syntax in code blocks using highlight.js
 
 # Installation
-Simply add highlightjs-JCL to your dependencies in your package.json (requires highlight.js to be installed). Install using npm
+Simply add highlightjs-jcl to your dependencies in your package.json (requires highlight.js to be installed). Install using npm
 
 # Links
 
