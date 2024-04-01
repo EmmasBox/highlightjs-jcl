@@ -156,7 +156,7 @@ export default function (hljs) {
             },
             {
                 scope: 'meta',
-                begin: /(\/\/|\/\*)/
+                begin: /(\/\/\w+|\/\*)/
             }
         ]
     }
