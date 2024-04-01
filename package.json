@@ -25,6 +25,6 @@
     "url": "https://github.com/EmmasBox/highlightjs-jcl/issues"
   },
   "devDependencies": {
-    "highlight.js": "^11.6.0"
+    "highlight.js": "^11.9.0"
   }
 }
